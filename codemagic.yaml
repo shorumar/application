@@ -30,4 +30,4 @@ workflows:
       scripts:
         - name: HTTP notification
           script: |
-            curl https://my.horumar.netbackend/api/observe/notice/68e538db-f521-a7bb-e1c6-b29db0b3916a
+            curl https://my.horumar.net/backend/api/observe/notice/68e538db-f521-a7bb-e1c6-b29db0b3916a
